@@ -1,2 +1,0 @@
-# personalWebsite
-resume/personal website
