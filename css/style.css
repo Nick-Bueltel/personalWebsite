@@ -2,11 +2,35 @@ body{ margin:0;
     font:normal 75% Arial, Helvetica, sans-serif;
     text-align: center;
     color: whitesmoke;  
+
 } 
 
-canvas{ display: block; vertical-align: bottom; 
+h1{
+    position: relative;
+    color: whitesmoke;
+    text-align: center;
+  }
+
+h2{
+    position: relative;
+    
 }
 
-#particles-js{ position:absolute; width: 100%; height: 100%; background-color: #b61924; background-image: url(""); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; 
-}
+  nav{
+      position: relative;
+      
+  }
+  a{
+      color: whitesmoke; 
+      
+  }
 
+
+
+#particles-js{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rebeccapurple;
+
+}
