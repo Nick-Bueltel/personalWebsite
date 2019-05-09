@@ -22,9 +22,11 @@ h2{
   }
   a{
       color: whitesmoke; 
-      
+      font-size: 20px; 
   }
-
+  p{
+      position: relative; 
+  }
 
 
 #particles-js{
