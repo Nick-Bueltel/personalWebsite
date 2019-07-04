@@ -18,7 +18,7 @@ function App() {
           </Item.Content>
       </Item>
       <Item>
-          <Item.Image size="large" src='https://i.imgur.com/SehZynG.png'/>
+          <Item.Image size="large" src='https://i.imgur.com/SehZynG.png' />
           <Item.Content verticalAlign='middle'>
               <Item.Header as='a' href="https://nick-bueltel.github.io/puzzleHorrorGame/" target="blank"> Puzzle Horror Game (HTML, CSS, JS) </Item.Header>
           </Item.Content>
