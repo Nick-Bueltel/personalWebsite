@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  
+}
+
+body{
+  background-color: #424242;
 }
 
 .App-logo {
@@ -31,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+ #navbar {
+  background-color:#000000;
+
+
+}
+
+#navbar a:hover{
+  background-color: #303030 !important;
+  
+  
+}
+
+a{
+  color: #FFFFFF !important;
+}
+
+a:hover{
+  color: #EDB458 !important;
+}
+
+.item{
+  padding: 5vmin; 
+}
+
+
+#logo:hover{
+  color: #EDB458 !important;
+  transition: 1000trms !important;   
+}
+
